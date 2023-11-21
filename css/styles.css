@@ -4,7 +4,39 @@
     background: url(/bootstrap-challenge-the_mountain/images/bg_header.jpg);
     background-repeat: no-repeat;
     background-size: cover ;
+
+}
+.logo{
+    height: 70px;
+}
+.grand-titre{
+    font-size: 50px;
+}
+.grand-titre2{
+    font-size: 60px
 }
 .btn1-2{
     border-radius: ;
+}
+#sec3{
+    background: url(/bootstrap-challenge-the_mountain/images/bg_nuage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+#bleu{
+
+
+}
+.text{
+border: solid white 1px;
+width: 200px;
+height: 200px;
+}
+.titre-bleu{
+    font-size: 40px;
+}
+.txt{
+    font-size: 20px;
 }

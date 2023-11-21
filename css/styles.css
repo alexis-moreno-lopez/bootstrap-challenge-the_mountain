@@ -1,14 +1,20 @@
 
 
 #sec1{
-    background: url(/bootstrap-challenge-the_mountain/images/bg_header.jpg);
+    background: url(../images/bg_header.jpg);
     background-repeat: no-repeat;
     background-size: cover ;
 
 }
 .logo{
+    
     height: 70px;
 }
+.logo2{
+    margin: 0;
+    font-size: 40px;
+}
+
 .grand-titre{
     font-size: 50px;
 }
@@ -16,10 +22,10 @@
     font-size: 60px
 }
 .btn1-2{
-    border-radius: ;
+
 }
 #sec3{
-    background: url(/bootstrap-challenge-the_mountain/images/bg_nuage.jpg);
+    background: url(../images/bg_nuage.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -39,4 +45,28 @@ height: 200px;
 }
 .txt{
     font-size: 20px;
+}
+.velo{
+    width: 500px;
+    height: 500px;
+
+}
+#sec5{
+    background: url(../images/bg_appareil_photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+
+.img-logo{
+    width: 200px;
+    height: 130px;
+}
+#sec8{
+    background: url(../images/bg_newsletter.jpg)
+}
+input{
+    width: 300px;
+    height: 40px;
 }
